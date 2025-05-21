@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhil-Kar
-- 👀 I’m interested in Coding and Building new things
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Web Application
+- 👀 I’m interested in Devops, cloud technologies and Building new things
+- 🌱 I’m currently working as DevOps Engineer
+- 💞️ I’m looking to collaborate with cloud enthusiasts
 - 📫 How to reach me mail me on akhildilipkar@gmail.com
 
 <!---
